@@ -1,0 +1,10 @@
+body
+{
+	color: black;
+	font-family: Arial, sans-serif;
+}
+
+html { 
+  background: url(fond_code.png) no-repeat center fixed; 
+  background-size: cover;
+}
