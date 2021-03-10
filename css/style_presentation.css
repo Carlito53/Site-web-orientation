@@ -1,0 +1,38 @@
+body
+{
+	color: black;
+	font-family: Arial, sans-serif;
+}
+
+html { 
+  background: url(fond_code.png) no-repeat center fixed; 
+  background-size: cover;
+}
+
+li[id^="Moi"] {
+padding-top: 50px;
+position: relative;
+top: -50px;
+margin-bottom: -50px;
+}
+
+li[id^="Pourquoi_la_STI2D_SIN"] {
+padding-top: 50px;
+position: relative;
+top: -50px;
+margin-bottom: -50px;
+}
+
+li[id^="Pourquoi_l_Informatique"] {
+padding-top: 50px;
+position: relative;
+top: -50px;
+margin-bottom: -50px;
+}
+
+li[id^="Mes_projet_d_avenir"] {
+padding-top: 50px;
+position: relative;
+top: -50px;
+margin-bottom: -50px;
+}

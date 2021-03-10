@@ -1,0 +1,51 @@
+body
+{
+background-color: #E49EFB;
+color: black;
+}
+
+h2
+{
+	font-size: 2em;
+	color: black;
+	text-align: center;
+	font-family: Impact;
+}
+
+h3
+{
+	font-size: 1.5em;
+	color: #9FA0A6;
+	text-align: center;
+	font-family: Arial Black;
+}
+
+h4
+{
+	font-size: 1.2em;
+	text-align: center;
+	font-family: Arial;
+}
+
+ul
+{
+	font-size: 1em;
+	color: black;
+	text-align: center;
+	font-family: Verdana;
+}
+
+.souligne
+{
+text-decoration: underline;
+}
+
+.rouge
+{
+	color: red;
+}
+
+.titre2
+{
+	color: #FFA214;
+}
