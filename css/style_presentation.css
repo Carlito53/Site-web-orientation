@@ -30,9 +30,16 @@ top: -50px;
 margin-bottom: -50px;
 }
 
-li[id^="Mes_projet_d_avenir"] {
+li[id^="Mes_projets_d_avenir"] {
 padding-top: 50px;
 position: relative;
 top: -50px;
 margin-bottom: -50px;
 }
+
+li[id^="Ma_personalite"] {
+  padding-top: 50px;
+  position: relative;
+  top: -50px;
+  margin-bottom: -50px;
+  }
