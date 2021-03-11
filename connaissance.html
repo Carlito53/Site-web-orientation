@@ -24,18 +24,22 @@
       <a href="presentation.html#Ma_personalite" class="w3-bar-item w3-button">Ma personlité</a>
     </div>
   </div>
-  <div class="w3-hide-small">
-  <a href="connaissance.html" class="w3-bar-item w3-button w3-white">Connaissance</a>
-  <a href="liens.html" class="w3-bar-item w3-button">Liens</a>
-  <a href="#" class="w3-bar-item w3-button"><img src="img/GitHub-Mark-Light-32px.png" alt="GitHub" style="width:75%"></a>
+  <div class="w3-dropdown-hover w3-hide-small">
+    <a href="connaissance.html" class="w3-button w3-white">Connaissance</a>
+    <div class="w3-dropdown-content w3-bar-block w3-card-4 w3-white">
+      <a href="connaissance.html#Logitiel_Metrise" class="w3-bar-item w3-button">Logitiel Métrisé</a>
+      <a href="connaissance.html#Langue_de_programation" class="w3-bar-item w3-button">Langue de programation</a>
+    </div>
   </div>
+  <a href="liens.html" class="w3-bar-item w3-button w3-hide-small">Liens</a>
+  <a href="#" class="w3-bar-item w3-button w3-hide-small"><img src="img/GitHub-Mark-Light-32px.png" alt="GitHub" style="width:75%"></a>
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="dropdown_hover()">&#9776;</a>
 </div>
 
 <div id="demo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium">
 	<div class="w3-dropdown-click">
     <button class="w3-button" onclick="dropdown_click()">Présentation <i class="fa fa-caret-down"></i>
-  </button>
+    </button>
     <div id="click" class="w3-dropdown-content w3-bar-block w3-card-4 w3-black">
 	  <a href="presentation.html" class="w3-bar-item w3-button">Présentation</a>
       <a href="presentation.html#Evenement_particulier_dans_ma_vie" class="w3-bar-item w3-button">Evenement particulier dans ma vie</a>
@@ -45,7 +49,15 @@
       <a href="presentation.html#Ma_personalite" class="w3-bar-item w3-button">Mes projet d'avenir</a>
       </div>
   </div>
-  <a href="connaissance.html" class="w3-bar-item w3-button">Connaissance</a>
+  <div class="w3-dropdown-click w3-white">
+    <button class="w3-button" onclick="dropdown_click2()">Connaissance <i class="fa fa-caret-down"></i>
+  </button>
+    <div id="click2" class="w3-dropdown-content w3-bar-block w3-card-4">
+	<a href="connaissance.html" class="w3-bar-item w3-button">Connaissance</a>
+    <a href="connaissance.html#Logitiel_Metrise" class="w3-bar-item w3-button">Logitiel Métrisé</a>
+    <a href="connaissance.html#Langue_de_programation" class="w3-bar-item w3-button">Langue de programation</a>
+    </div>
+  </div>
   <a href="liens.html" class="w3-bar-item w3-button">Liens</a>
   <a href="#" class="w3-bar-item w3-button"><img src="img/GitHub_Logo_White.png" alt="GitHub" style="width:12%"></a>
 </div>
