@@ -7,4 +7,4 @@ Bonne visite 😁
 Hébergeur: <br>
 GitHub : https://github.com/Carlito53/Site-web-orientation <br>
 Versel : https://site-web-orientation.vercel.app/ <br>
-Netlify : netlify.com <br>
+Netlify : https://site-web-orientation.netlify.app/ <br>
