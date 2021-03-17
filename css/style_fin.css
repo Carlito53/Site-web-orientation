@@ -1,0 +1,10 @@
+body
+{
+	color: black;
+	font-family: Arial, sans-serif;
+}
+
+html { 
+  background: url(img_css/fond_code_fin.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
