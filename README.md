@@ -1,4 +1,4 @@
-![alt text][logo_STI2D] # Site-web-orientation
+# Site-web-orientation ![alt text][logo_STI2D] 
 Bien venue sur le README de mon site internet. <br>
 Voici le lien vers mon [GitHub](https://github.com/Carlito53/Site-web-orientation) si vous n'y êtes pas déjà. <br>
 C'est ici qu'est entreposé tout le code du site web. <br>
