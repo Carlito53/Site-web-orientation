@@ -5,7 +5,7 @@ C'est ici qu'est entreposé tout le code du site web. <br>
 Bonne visite 😁  <br>
 
 ## Liens vers le site web hébergé avec :
-* GitHub : https://carlito53.github.io/Site-web-orientation/ <br>
+* __GitHub__ : https://carlito53.github.io/Site-web-orientation/ <br>
 * Versel : https://site-web-orientation.vercel.app/ <br>
 * Netlify : https://site-web-orientation.netlify.app/ <br>
 
