@@ -6,9 +6,9 @@ Bonne visite 😁
 
 Liens vers le site web hébergé avec :
 -------------------------------------------
-GitHub : https://carlito53.github.io/Site-web-orientation/ <br>
-Versel : https://site-web-orientation.vercel.app/ <br>
-Netlify : https://site-web-orientation.netlify.app/ <br>
+* GitHub : https://carlito53.github.io/Site-web-orientation/ <br>
+* Versel : https://site-web-orientation.vercel.app/ <br>
+* Netlify : https://site-web-orientation.netlify.app/ <br>
 
 
 [logo_STI2D]: https://github.com/Carlito53/Site-web-orientation/blob/main/img/logo_sti2d%2030x30px.png
